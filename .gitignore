@@ -14,3 +14,5 @@ _site/
 .nb-gradle-properties
 Gemfile.lock
 /push_docs.sh
+*.iml
+.idea/
